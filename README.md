@@ -1,2 +1,2 @@
 # spunkfolder
-contains programs which I put right after learning
+contains programs that I put in right after learning
